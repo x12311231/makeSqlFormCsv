@@ -1,0 +1,1 @@
+update erp_house set code='新房屋战图编码', dic_project_id='新项目dic_project_id', dic_building_id='新楼栋dic_building_id', dic_unit_id='新单元dic_unit_id', dic_house_id='新房屋dic_house_id', community_id='新项目community_id', community='新项目名称', block='新座栋名称', unit_name='新单元名称', room_code='新房号' where company_id='城市公司ID' and code='旧房屋战图编码';

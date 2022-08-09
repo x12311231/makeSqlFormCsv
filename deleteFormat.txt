@@ -1,0 +1,1 @@
+delete from `erp_house` where company_id='城市公司ID' and code='旧房屋战图编码';
